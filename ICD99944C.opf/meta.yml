@@ -1,0 +1,50 @@
+id: ICD99944C
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:22:17.980559'
+last_modified: '2022-05-30T18:22:17.980564'
+parser: null
+source_metadata:
+  title: Apang Tertön Series
+  language: bo
+  description: 'Texts by and about Apang Tertön (a paṃ gter ston) alias Pawo Chöying
+    Dorje (dpa'' bo chos dbyings rdo rje, 1895–1945):'
+  volume:
+    fF606:
+      title: A Prayer for Auspiciousness
+      base_file: fF606.txt
+      order: 1
+      parent: Auspiciousness
+    fDE63:
+      title: A Prayer to Chöying Dorje
+      base_file: fDE63.txt
+      order: 2
+      parent: Prayers
+    fDB18:
+      title: A Prayer to Mañjuśrī
+      base_file: fDB18.txt
+      order: 3
+      parent: Prayers
+    f1BA8:
+      title: A Prayer to Yumka Tsogyal
+      base_file: f1BA8.txt
+      order: 4
+      parent: Prayers
+    f22FB:
+      title: A Short Prayer to Chöying Dorje
+      base_file: f22FB.txt
+      order: 5
+      parent: Prayers
+    f48E6:
+      title: Daily Practice of Vajrakīla
+      base_file: f48E6.txt
+      order: 6
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
